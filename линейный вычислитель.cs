@@ -21,6 +21,8 @@ namespace elmir
 
             Console.WriteLine($"Ваш возраст составляет {age} года.");
             Console.WriteLine("Спасибо что использовали нашу прошрамму!!!");
+            Console.WriteLine("Привет.");
+            Console.ReadKey();
 
         }
     }
